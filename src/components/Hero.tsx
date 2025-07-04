@@ -20,7 +20,7 @@ const Hero = () => {
           </div>
           
           <div className="text-lg md:text-xl text-gray-700 mb-12 max-w-3xl mx-auto leading-relaxed space-y-2">
-            <p>Currently a sophomore at <strong className="text-gray-800">University of California, San Diego</strong></p>
+            <p>Currently a Junior at <strong className="text-gray-800">University of California, San Diego</strong></p>
             <p>Double majoring in</p>
             <p><strong className="text-gray-800">Mathematics-Computer Science</strong> and <strong className="text-gray-800">Economics</strong></p>
           </div>
